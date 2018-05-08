@@ -1,6 +1,6 @@
 # Coursera-Advanced-Machine-Learning
 Repo for coursera specialization Advanced Machine Learning by Higher School of Economics  
-1.Introduction to Deep Learning 
+1.Introduction to Deep Learning  
 2.How to Win a Data Science Competition: Learn from Top Kagglers   
 3.Bayesian Methods for Machine Learning  
 4.Natural Language Processing  
